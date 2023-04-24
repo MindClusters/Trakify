@@ -6,7 +6,6 @@ on:
 permissions: write-all
 jobs:
   test-transition-issue: null
-  name: Transition Issue
   runs-on: ubuntu-latest
   steps:
     - name: Login
